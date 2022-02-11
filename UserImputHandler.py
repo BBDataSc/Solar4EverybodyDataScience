@@ -8,7 +8,11 @@ import matplotlib.pyplot as plt
 
 # Variables
 a = []
+<<<<<<< HEAD
 c= []
+=======
+b = []
+>>>>>>> feature/Second_feature
 # Functions
 def UserImput():
     # do something
