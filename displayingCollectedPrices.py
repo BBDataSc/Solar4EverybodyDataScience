@@ -10,6 +10,7 @@ from glob import glob
 # variables
 dataPageOne = []
 dataPageTwo = []
+dataPageThree = []
 
 main_file = "main.py"
 
