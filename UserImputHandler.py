@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 # Variables
 a = []
-
+c= []
 # Functions
 def UserImput():
     # do something
